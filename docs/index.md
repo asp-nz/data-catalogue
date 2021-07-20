@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Antarctic Science Platform Data Catalog
 
-You can use the [editor on GitHub](https://github.com/asp-nz/data-catalogue/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+An preliminary, incomplete, catalogue of datasets that have been downloaded or created for ASP projects that are, or can be made, available to other ASP researchers
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Model data
 
-### Markdown
+### General
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CMIP-6
 
-```markdown
-Syntax highlighted code block
+CMIP-6 deserves its own table
 
-# Header 1
-## Header 2
-### Header 3
+| Start Date  | End Date   | Data Location                                         | Contact                       | Variables |
+| ---         | ---        | ---                                                   | ---                           | ---       |
+| 2020-01-01  | 2050-12-31 | /nesi/project/nesi00165/example                       | jollyb@landcareresearch.co.nz | Some example subset |
 
-- Bulleted
-- List
+## Satellite remote sensing
 
-1. Numbered
-2. List
+| Name       | Start Date  | End Date   | Extent              | Data Location                                         | Contact                       | Description  |
+| ---        | ---         | ---        | ---                 | ---                                                   | ---                           | --- |
+| Sentinel-1 | 2016-01-01  | 2021-06-01 | 150, -64, -150, -79 | /nesi/project/landcare03246/ard/sentinel-1            | jollyb@landcareresearch.co.nz | Sentinel-1 SAR imagery, 40 m, denoised, analysis-ready |
 
-**Bold** and _Italic_ and `Code` text
+## Observations
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asp-nz/data-catalogue/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Name       | Start Date  | End Date   | Extent              | Data Location                                         | Contact                       | Description  |
+| ---        | ---         | ---        | ---                 | ---                                                   | ---                           | --- |
