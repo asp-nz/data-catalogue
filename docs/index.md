@@ -1,12 +1,8 @@
-# Antarctic Science Platform Data Catalog
+# Model data
 
-An preliminary, incomplete, catalogue of datasets that have been downloaded or created for ASP projects that are, or can be made, available to other ASP researchers
+## General
 
-## Model data
-
-### General
-
-### CMIP-6
+## CMIP-6
 
 CMIP-6 deserves its own table
 
@@ -14,13 +10,13 @@ CMIP-6 deserves its own table
 | ---         | ---        | ---                                                   | ---                           | ---       |
 | 2020-01-01  | 2050-12-31 | /nesi/project/nesi00165/example                       | jollyb@landcareresearch.co.nz | Some example subset |
 
-## Satellite remote sensing
+# Satellite remote sensing
 
 | Name       | Start Date  | End Date   | Extent              | Data Location                                         | Contact                       | Description  |
 | ---        | ---         | ---        | ---                 | ---                                                   | ---                           | --- |
 | Sentinel-1 | 2016-01-01  | 2021-06-01 | 150, -64, -150, -79 | /nesi/project/landcare03246/ard/sentinel-1            | jollyb@landcareresearch.co.nz | Sentinel-1 SAR imagery, 40 m, denoised, analysis-ready |
 
-## Observations
+# Observations
 
 | Name       | Start Date  | End Date   | Extent              | Data Location                                         | Contact                       | Description  |
 | ---        | ---         | ---        | ---                 | ---                                                   | ---                           | --- |
