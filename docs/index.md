@@ -10,4 +10,6 @@ A preliminary, incomplete, catalogue of datasets that have been downloaded or cr
  * [Remote Sensing](remotesensing.md)
  * [Observations](observations.md)
 
- 
+## Contacts
+
+A list of ASP researchers with datasets in this catalogue is available [here](contacts.md)
